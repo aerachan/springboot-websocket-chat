@@ -1,4 +1,4 @@
-package config.config;
+package com.example.chatapi.websocketchatapi.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.messaging.simp.config.MessageBrokerRegistry;

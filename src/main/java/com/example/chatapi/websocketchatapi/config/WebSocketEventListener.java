@@ -1,4 +1,4 @@
-package config.config;
+package com.example.chatapi.websocketchatapi.config;
 
 import com.example.chatapi.websocketchatapi.chat.ChatMessage;
 import com.example.chatapi.websocketchatapi.chat.MessageType;
